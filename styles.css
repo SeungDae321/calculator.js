@@ -1,0 +1,37 @@
+body{
+    background-color: gray;
+}
+.container{
+    margin-top: 30vh;
+}
+
+.result-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5em;
+}
+
+.result-container .result{
+    font-size: 30px;
+}
+
+.line4,
+.line3,
+.line2,
+.line1{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.numbers{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.numbers button{
+    font-size: 50px;   
+}
